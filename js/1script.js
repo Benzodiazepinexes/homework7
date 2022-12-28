@@ -34,7 +34,3 @@ const sportResult = userFavSport
 
 
 alert(`You are ${ageResult}'s old!\n${cityResult}\n${sportResult}`)
-
-
-
-sports['soccer']
